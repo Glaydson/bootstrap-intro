@@ -25,4 +25,11 @@ export default {
   color: #2c3e50;
   margin-top: 60px;
 }
+form {
+  margin: 40px 200px;
+  text-align: left;
+}
+.central {
+   margin: 0px 0px 50px 50px;
+}
 </style>

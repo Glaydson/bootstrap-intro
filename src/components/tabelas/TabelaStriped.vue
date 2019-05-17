@@ -1,7 +1,7 @@
 <template>
 <div>
-  <table class="table">
-  <thead class="thead-dark">
+  <table class="table table-striped central">
+  <thead>
     <tr>
       <th scope="col">#</th>
       <th scope="col">First</th>
@@ -36,7 +36,7 @@
 
 <script>
 export default {
-  name: 'TabelaHead'
+  name: 'TabelaStriped'
 }
 </script>
 

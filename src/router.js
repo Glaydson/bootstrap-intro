@@ -34,11 +34,16 @@ Vue.use(Router)
 
 export default new Router({
     routes: [
-        {
+        /* {
             path: "/",
             redirect: {
                 name: "HelloWorld"
             }
+        }, */
+        {
+            path: '/helloWorld',
+            name: 'HelloWorld',
+            component: HelloWorld
         },
         {
             path: '/tresColunas',

@@ -3,7 +3,7 @@
   <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-        <img src="../../assets/imagem1.jpg" class="d-block w-100" alt="Imagem 1">
+        <img src="../../assets/imagem1.jpg" width="50%" height="50%" class="d-block w-100" alt="Imagem 1">
     </div>
     <div class="carousel-item">
       <img src="../../assets/imagem2.jpg" class="d-block w-100" alt="Imagem 2">

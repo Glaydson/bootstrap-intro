@@ -37,6 +37,10 @@
     </ul>
     <hr/>
     <router-view />
+    <p></p>
+    <p></p>
+    <p></p>
+    <p></p>
   </div>
 
 </template>
